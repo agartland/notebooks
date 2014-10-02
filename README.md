@@ -1,6 +1,6 @@
 notebooks
 =========
 
-IPython notebooks and related material.
+###IPython notebooks and related material.
 
-* Example usage of the functions in utils/catcorr.py
+* [Example usage](http://nbviewer.ipython.org/github/agartland/notebooks/blob/master/catcorr_example.ipynb) of the functions in utils/catcorr.py
