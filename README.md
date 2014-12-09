@@ -1,7 +1,7 @@
 notebooks
 =========
 
-###IPython notebooks and related material.
+###IPython notebooks and related materials.
 
 * [Example usage](http://nbviewer.ipython.org/github/agartland/notebooks/blob/master/catcorr_example.ipynb) of the functions in utils/catcorr.py
 * [Visualizing TCR gene usage](http://nbviewer.ipython.org/github/agartland/notebooks/blob/master/tcr_diversity.ipynb) using utils/catcorr.py
